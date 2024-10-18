@@ -17,10 +17,8 @@ I hope to understand how a company uses power BI to help making business decisio
 - Strong teamwork and collaboration skills.
 - Professional growth in a dynamic environment.
 
-<br>
-
 ## ✨ Task 2: Call Centre Trends <br>
-[Live dashboard] (https://app.powerbi.com/view?r=eyJrIjoiMTU5MDc3M2MtM2EzYi00MDA4LWJmZTUtMGU2YWMyNjdhZjUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTU5MDc3M2MtM2EzYi00MDA4LWJmZTUtMGU2YWMyNjdhZjUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ♦ Details for task
 
@@ -30,13 +28,14 @@ Create a dashboard in Power BI that reflects all relevant Key Performance Indica
 - Utilize the resources provided, including podcasts and articles, to enhance your understanding of data visualization and upskilling.
 - Respond to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs.
 
+<br>
+
 <img src="https://github.com/user-attachments/assets/f994bc18-db64-409f-95f1-c73edbc8c5a0" alt="Task 2_Call Centre Trends" width="500"/>
 
 <br>
 
 ## ✨ Task 3: Customer Retention <br>
-
-[Live dashboard] (https://app.powerbi.com/view?r=eyJrIjoiYjQ0YjYxYWItZmYzYS00YTk5LTlhYmQtOWZjNGMyZTNkMDJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ0YjYxYWItZmYzYS00YTk5LTlhYmQtOWZjNGMyZTNkMDJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
@@ -48,8 +47,9 @@ Create a dashboard in Power BI that reflects all relevant Key Performance Indica
 - Create a dashboard that visualizes customer demographics and insights.
 - Create a dashboard using the defined KPIs to reflect customer demographics and insights.
 
+<br>
 <img src="https://github.com/user-attachments/assets/fad52307-9dc6-443b-bff8-0b995972ba26" alt="Task 3_Customer Retention" width="500"/>
-
+<br>
 
 ## ✨ Task 4: Diversity & Inclusion <br>
 [Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjFjN2NkZDMtN2ViNS00YTQ4LWE5ZWItMTE5NGUyYWExNjE4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
@@ -73,13 +73,13 @@ Create a dashboard in Power BI that reflects all relevant Key Performance Indica
 - % turnover 
 - Average performance rating: men
 - Average Performance rating: women
-
+<br>
 <img src="https://github.com/user-attachments/assets/6e7e47a6-3bcd-463c-a5c8-d27e7a877167" alt="Task 4_Diversity   Inclusion 1" width="500"/>
+<br>
 <img src="https://github.com/user-attachments/assets/fd797ea7-84c4-4344-a147-bc1b3fb946bc" alt="Task 4_Diversity   Inclusion 2" width="500"/>
 
 <br>
 
 **Reference** 
 <br>
-[Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience]
-(https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg?ref=zYi2CnpbWjhcS7sAk)
+[Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg?ref=zYi2CnpbWjhcS7sAk)
