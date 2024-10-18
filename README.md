@@ -76,10 +76,11 @@ Create a dashboard in Power BI that reflects all relevant Key Performance Indica
 <br>
 <img src="https://github.com/user-attachments/assets/6e7e47a6-3bcd-463c-a5c8-d27e7a877167" alt="Task 4_Diversity   Inclusion 1" width="500"/>
 <br>
+
 <img src="https://github.com/user-attachments/assets/fd797ea7-84c4-4344-a147-bc1b3fb946bc" alt="Task 4_Diversity   Inclusion 2" width="500"/>
 
 <br>
 
-**Reference** 
+## Reference
 <br>
 [Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg?ref=zYi2CnpbWjhcS7sAk)
