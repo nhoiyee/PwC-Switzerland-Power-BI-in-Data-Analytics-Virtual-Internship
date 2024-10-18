@@ -1,8 +1,7 @@
 # PwC-Switzerland-Power-BI-in-Data-Analytics-Virtual-Internship
-PwC Switzerland Power BI in Data Analytics Virtual Case Experience helps build foundation in data analysis and visualization with Power Bi. Power BI dashboards showcasing insights on Call Centre Trends, Customer Retention, and Diversity &amp; Inclusion to drive business impact. 
+PwC Switzerland Power BI in Data Analytics Virtual Case Experience helps build foundation in data analysis and visualization with Power Bi. Power BI dashboards showcases insights on Call Centre Trends, Customer Retention, and Diversity &amp; Inclusion to drive business impact. 
 
 <br>
-
 ## ✨ Task 1: Introduction <br>
 
 ♦ Details for task
@@ -76,11 +75,10 @@ Create a dashboard in Power BI that reflects all relevant Key Performance Indica
 <br>
 <img src="https://github.com/user-attachments/assets/6e7e47a6-3bcd-463c-a5c8-d27e7a877167" alt="Task 4_Diversity   Inclusion 1" width="500"/>
 <br>
-
+<br>
 <img src="https://github.com/user-attachments/assets/fd797ea7-84c4-4344-a147-bc1b3fb946bc" alt="Task 4_Diversity   Inclusion 2" width="500"/>
 
 <br>
 
-## Reference
-<br>
+## Reference <br>
 [Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg?ref=zYi2CnpbWjhcS7sAk)
